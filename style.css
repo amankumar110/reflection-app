@@ -38,3 +38,33 @@ body{
     text-align:center;
     text-decoration: solid;
 }
+.v1{
+    color: black;
+
+}
+.v3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    margin-top: 140px;
+}
+.v2{
+    width: 225px;
+    float: right;
+    border-radius: 20px;
+}
+.v4{
+    color: black;
+
+}
+.buttonA{
+    border: 2px solid;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: gold;
+}
+.v6{
+    background: linear-gradient(salmon,blue);
+    text-align: center;
+    font-size: 33px;
+}
